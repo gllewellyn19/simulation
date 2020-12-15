@@ -1,0 +1,11 @@
+#Mon Oct 12 19:07:04 EDT 2020
+Description=Oscillating blinker
+TitleOfSimulation=Blinker
+InitialConfiguration=data/TestingCSV/Beacon_edge.csv
+Author=John Conway
+SimulationType=GameOfLife
+StateColor1=RED
+StateColor0=WHITE
+NumberOfStates = 2
+NeighborType=Square
+EdgeType=Finite

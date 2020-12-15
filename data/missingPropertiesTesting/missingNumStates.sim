@@ -1,0 +1,6 @@
+SimulationType=GameOfLife
+Author=John Conway
+Description=Oscillating blinker
+InitialConfiguration=data/TestingCSV/Blinker_middle.csv
+StateColor0=0xffffffff
+StateColor1=RED

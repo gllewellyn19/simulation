@@ -1,0 +1,36 @@
+.root {
+  -fx-font-size: 12pt;
+  -fx-font-family: "Courier New";
+  -fx-base: "#CC0066";
+  -fx-background: #C6F5F5;
+}
+
+.button {
+  -fx-font-size: 9pt;
+  -fx-text-fill: #000000;
+  -fx-background-color: #CC0066;
+}
+
+.button:disabled {
+  -fx-font-size: 9pt;
+  -fx-text-fill: #000000;
+  -fx-background-color: #767D7D;
+}
+
+.ChoiceBox {
+  -fx-font-size: 9pt;
+  -fx-text-fill: #000000;
+  -fx-background-color: #767D7D;
+}
+
+.label {
+  -fx-font-size: 11pt;
+  -fx-font-family: "Segoe UI Semibold";
+  -fx-text-fill: #006464;
+  -fx-opacity: 0.6;
+}
+
+.text-field {
+  -fx-font-size: 14pt;
+  -fx-font-family: "Segoe UI Semibold";
+}

@@ -1,0 +1,7 @@
+SimulationType=GameOfLife
+TitleOfSimulation=Blinker
+Author=John Conway
+InitialConfiguration=data/TestingCSV/Blinker_middle.csv
+NumberOfStates = 2
+StateColor0=0xffffffff
+StateColor1=RED

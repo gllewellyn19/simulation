@@ -1,0 +1,11 @@
+SimulationType=GameOfLife
+TitleOfSimulation=Blinker
+Author=John Conway
+Description=Oscillating blinker
+InitialConfiguration=data/missingKey_test.csv
+NumberOfStates=2
+Threshold=0
+StateColor0=WHITE
+StateColor1=RED
+FilenameForStateImage0=cellImages/sadFace.jpg
+FilenameForStateImage1=cellImages/happyFace.jpg

@@ -1,0 +1,12 @@
+SimulationType=Segregation
+TitleOfSimulation=Segregation
+Author=Thomas Schelling 
+Description=Agents don't Want to be by each other
+InitialConfiguration=data/TestingCSV/SegregationTest.csv
+Threshold=.78
+NumberOfStates=3
+StateColor0=WHITE
+StateColor1=BLUE
+StateColor2 = RED
+NeighborType=Square
+EdgeType=Finite

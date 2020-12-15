@@ -1,0 +1,8 @@
+SimulationType=GameOfLife
+TitleOfSimulation=Blinker
+Author=John Conway
+Description=Oscillating blinker
+InitialConfiguration=data/TestingCSV/Blinker_middle.csv
+NumberOfStates=2
+NeighborType=Square
+EdgeType=Finite

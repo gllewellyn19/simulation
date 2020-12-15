@@ -1,0 +1,11 @@
+SimulationType=PreyPredator
+TitleOfSimulation=Prey and Predator
+Author=Nature
+Description=Prey better run away
+InitialConfiguration=data/TestingCSV/PreyPredatorTest.csv
+NumberOfStates=3
+StateColor0=WHITE
+StateColor1=LIMEGREEN
+StateColor2 = RED
+NeighborType=Square
+EdgeType=Finite

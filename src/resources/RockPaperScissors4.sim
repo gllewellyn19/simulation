@@ -1,0 +1,12 @@
+SimulationType=RockPaperScissors
+TitleOfSimulation=Rock Paper Scissors
+Author=Humans 
+Description=Cells play RSP
+InitialConfiguration=data/TestingCSV/RockPaperScissorsTest.csv
+Threshold=3
+NumberOfStates=3
+StateColor0=RED
+StateColor1=GREEN
+StateColor2 = BLUE
+NeighborType=Square
+EdgeType=Finite

@@ -1,0 +1,8 @@
+SimulationType=Percolation
+TitleOfSimulation=FreeFlowing
+Author=Owen Astrachan
+Description=Water is flowing
+InitialConfiguration=Random
+NumberOfStates=3
+NeighborType=Square
+EdgeType=Toroidal

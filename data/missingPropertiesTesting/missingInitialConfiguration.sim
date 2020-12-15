@@ -1,0 +1,7 @@
+SimulationType=GameOfLife
+TitleOfSimulation=Blinker
+Author=John Conway
+NumberOfStates = 2
+Description=Oscillating blinker
+StateColor0=0xffffffff
+StateColor1=RED

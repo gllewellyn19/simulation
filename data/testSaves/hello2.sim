@@ -1,0 +1,8 @@
+SimulationType=GameOfLife
+TitleOfSimulation=dfg
+Author=sdfg
+Description=sdf
+InitialConfiguration=data/hello2.csv
+NeighborType=null
+EdgeType=null
+NumberOfStates=2

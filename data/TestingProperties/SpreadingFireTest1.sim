@@ -1,0 +1,12 @@
+SimulationType=SpreadingFire
+TitleOfSimulation=Spreading Fire
+Author=Studebaker
+Description=Fire kills forests
+InitialConfiguration=data/SpreadingFireTest.csv
+Threshold=.5
+StateColor0=YELLOW
+StateColor1=LIMEGREEN
+StateColor2=FIREBRICK
+NumberOfStates = 3
+NeighborType=Square
+EdgeType=Finite

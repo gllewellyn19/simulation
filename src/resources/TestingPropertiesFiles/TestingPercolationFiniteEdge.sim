@@ -1,0 +1,11 @@
+SimulationType=Percolation
+TitleOfSimulation=FreeFlowing
+Author=Owen Astrachan
+Description=Water is flowing
+InitialConfiguration=data/TestingCSV/PercolationTest.csv
+NumberOfStates=3
+StateColor0=BLACK
+StateColor1=GREY
+StateColor2=LIGHTBLUE
+NeighborType=Square
+EdgeType=Finite

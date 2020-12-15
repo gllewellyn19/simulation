@@ -1,0 +1,6 @@
+SimulationType=GameOfLife
+TitleOfSimulation=dfg
+Author=sdfg
+Description=sdfg
+InitialConfiguration=data/hello3.csv
+NumberOfStates=2

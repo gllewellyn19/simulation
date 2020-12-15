@@ -1,0 +1,8 @@
+SimulationType=Percolation
+TitleOfSimulation=sdfg
+Author=sdfg
+Description=sgh
+InitialConfiguration=data/hello.csv
+NumberOfStates=3
+NeighborType=Square
+NeighborType=Toroidal

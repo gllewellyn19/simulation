@@ -1,0 +1,10 @@
+Description=Oscillating blinker
+TitleOfSimulation=Blinker
+InitialConfiguration=Checkered:11,11
+Author=John Conway
+SimulationType=GameOfLife
+StateColor1=RED
+StateColor0=WHITE
+NumberOfStates = 2
+NeighborType=Square
+EdgeType=Finite

@@ -1,0 +1,6 @@
+Author=John Conway
+Description=Oscillating blinker
+InitialConfiguration=data/TestingCSV/Blinker_middle.csv
+NumberOfStates = 2
+StateColor0=0xffffffff
+StateColor1=RED
